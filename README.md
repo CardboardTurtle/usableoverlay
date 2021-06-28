@@ -15,7 +15,10 @@ not only this, but theres a small overlap on the A and B button hitboxes. This m
 there are no other overlays like this that i have found, which is surprising. because of this, im calling this one the only usable overlay for retroarch, soley because of being able to press A and B at the same time.
 playing mario is actually possible now.
 
-![Screenshot_20210626-105939_Trebuchet](https://user-images.githubusercontent.com/43497630/123519003-4ce8bd80-d66e-11eb-8ab3-763b81756f5f.png)
+![Screenshot_20210628-010123_RetroArch](https://user-images.githubusercontent.com/43497630/123588198-077eda00-d7ad-11eb-8c60-d51ae032aa45.png)
+
+**why is fast forward so slim?**
+accident. not important enough for me to give a damn about fixing it. will be patched next time I want to update the overlay.
 
 **explanation for why mappings are weird**
 
