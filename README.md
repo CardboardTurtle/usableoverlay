@@ -1,13 +1,11 @@
 # usableoverlay
 the only usable overlay gamepad for retroarch
 
-**please note**
+**Please note**
 
-You need to do a bit of fiddling about. First of all, its a landscape overlay designed for portrait, so just go into the scaling settings and make it work on your device.
-
-make "Y" map to "B" in "controls"
+make "Y" map to "B" in controls for cores just A and B buttons, like NES and the Gameboys
+explanation is under the screenshots.
 A on the overlay is mapped to A, but B on the overlay is mapped to Y. Make sure that in the keybind settings on your retroarch that the Y button is mapped to "B" for the cores that you would use this overlay for.
-Explanation at bottom.
 
 **disclaimer**
 
@@ -21,11 +19,11 @@ not only this, but theres a small overlap on the A and B button hitboxes. This m
 
 there are no other overlays like this that i have found, which is surprising. because of this, im calling this one the only usable overlay for retroarch, soley because of being able to press A and B at the same time.
 playing mario is actually possible now.
+**SCREENSHOTS:**
+![Screenshot_20210629-000938_RetroArch](https://user-images.githubusercontent.com/43497630/123741383-92c0a400-d86f-11eb-8339-6beecaf2d5f2.png)
 
-![Screenshot_20210628-010123_RetroArch](https://user-images.githubusercontent.com/43497630/123588198-077eda00-d7ad-11eb-8c60-d51ae032aa45.png)
+![Screenshot_20210629-001435_RetroArch](https://user-images.githubusercontent.com/43497630/123741388-97855800-d86f-11eb-8bac-9aab072bde92.png)
 
-**why is fast forward so slim?**
-accident. not important enough for me to give a damn about fixing it. will be patched next time I want to update the overlay.
 
 **explanation for why mappings are weird**
 
