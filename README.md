@@ -1,5 +1,7 @@
 # usableoverlay
 the only usable overlay gamepad for retroarch
+read the "please note"
+**screenshots available further down under most important information.**
 
 **Please note**
 
@@ -24,6 +26,9 @@ playing mario is actually possible now.
 
 ![Screenshot_20210629-001435_RetroArch](https://user-images.githubusercontent.com/43497630/123741388-97855800-d86f-11eb-8bac-9aab072bde92.png)
 
+**extra info you might like**
+
+the squares on the dpad are up+left and down+right and such, and there is in fact a refresh button. its just invis. next to the menu and fast foward buttons. invis because it would likely never be used, but still to have just in case.
 
 **explanation for why mappings are weird**
 
