@@ -1,11 +1,6 @@
 # usableoverlay
 the only usable overlay gamepad for retroarch
 
-**future features ill probably work on:**
-
-converting it to proper orientation for easier setup
-adding layers with snes controls and n64 controls.
-
 **please note**
 
 You need to do a bit of fiddling about. First of all, its a landscape overlay designed for portrait, so just go into the scaling settings and make it work on your device.
