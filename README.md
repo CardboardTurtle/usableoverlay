@@ -26,6 +26,12 @@ playing mario is actually possible now.
 
 The buttons are reversed like this because of the mario games. pressing the rightmost button and hovering the leftmost works much better than pressing leftmost and hovering the rightmost button, mostly because of the "input lag" problems with touch overlays. Whenever using a touchscreen overlay, theres going to be more "input lag" than when using real buttons. not because of the technology behind the overlays, but because of the technology behind your thumbs. moving your thumb down and in on itself takes more time than down and flattening it out on the screen. Because of this fact, I reversed the layout.
 
+**why are the buttons staggered in portrait, but not in landscape?**
+
+early in development, even before I knew how layers worked, I had decided that portrait was to be used for Gameboy and NES games, while landscape _could_ be used for SNES and DS if I were to figure them out. Well, I did figure them out, and in V2 it was like the original vision. However, two days later, I realized that was stupid and I could very easily support SNES games (at least a little bit) in portrait because of how much space was available on the screen, without any (or with very little) negative effect. So I put in SNES support for portrait after getting landscape to work. However, I learned that in portrait mode by moving the buttons up it became much harder to keep my thumb in the right location, and I kept triggering the overlaps from the B and Y buttons. As such, I staggered them out a bit so that this problem went away.
+
+You won't be able to play super mario kart in portrait, but you should be able to play a significant amount of games including Mario World, Zelda, RPGs, visual novels, and many more that don't require B and A or Y and X to be pressed at the same time. Of course, its less comfortable to play mario world in portrait because you use Y and B instead of X and A because spin jump, so it all depends on the game as to what layout works best.
+
 **why use mario as a basis for development?**
 
 because its one of the most popular series of games to play, and most action games require very, very similiar motions to mario. Contra, for example, is also A to jump, and B to shoot. the only difference is the lack of running. Top-down games like Zelda have less of a need for specific button layouts, since each press is usually independent of the other. RPGs don't even need a cohesive button layout because theres no real rush to press the right button at the right time.
