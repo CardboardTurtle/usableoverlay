@@ -30,9 +30,13 @@ The buttons are reversed like this because of the mario games. pressing the righ
 
 early in development, even before I knew how layers worked, I had decided that portrait was to be used for Gameboy and NES games, while landscape _could_ be used for SNES and DS if I were to figure them out. Well, I did figure them out, and in V2 it was like the original vision. However, two days later, I realized that was stupid and I could very easily support SNES games (at least a little bit) in portrait because of how much space was available on the screen, without any (or with very little) negative effect. So I put in SNES support for portrait after getting landscape to work. However, I learned that in portrait mode by moving the buttons up it became much harder to keep my thumb in the right location, and I kept triggering the overlaps from the B and Y buttons. As such, I staggered them out a bit so that this problem went away.
 
+I had staggered the SNES buttons in landscape before out of fear of the problems i encountered in portrait, but turns out, its much easier to avoid misplacing your thumb in landscape. Plus, by unstaggering I made Super Mario Kart much more playable.
+
 You won't be able to play super mario kart in portrait, but you should be able to play a significant amount of games including Mario World, Zelda, RPGs, visual novels, and many more that don't require B and A or Y and X to be pressed at the same time. Of course, its less comfortable to play mario world in portrait because you use Y and B instead of X and A because spin jump, so it all depends on the game as to what layout works best.
 
 **why use mario as a basis for development?**
+
+let me preface this with i didn't just use mario, i messed about a bit in some other games, like Super Mario Kart. That being said, I did primarily use Mario as the main test game.
 
 because its one of the most popular series of games to play, and most action games require very, very similiar motions to mario. Contra, for example, is also A to jump, and B to shoot. the only difference is the lack of running. Top-down games like Zelda have less of a need for specific button layouts, since each press is usually independent of the other. RPGs don't even need a cohesive button layout because theres no real rush to press the right button at the right time.
 
