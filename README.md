@@ -1,13 +1,7 @@
 # usableoverlay
 the only usable overlay gamepad for retroarch
-read the "please note"
-**screenshots available further down under most important information.**
 
-**Please note**
-
-make "Y" map to "B" in controls for cores just A and B buttons, like NES and the Gameboys
-explanation is under the screenshots.
-A on the overlay is mapped to A, but B on the overlay is mapped to Y. Make sure that in the keybind settings on your retroarch that the Y button is mapped to "B" for the cores that you would use this overlay for.
+MAP X TO B IN CONTROL SETTINGS FOUND IN THE QUICK MENU (PRESS RETROARCH LOGO DURING PLAY) IF YOU WANT NES GAMES PLAYABLE IN PORTRAIT MODE.
 
 **disclaimer**
 
@@ -21,17 +15,13 @@ same goes for landscape mode but SNES layout with reversed XA and YB to make Sup
 
 there are no other overlays like this that i have found, which is surprising. because of this, im calling this one the only usable overlay for retroarch, soley because of being able to press A and B at the same time.
 playing mario is actually possible now.
-**SCREENSHOTS:**
-![Screenshot_20210629-000938_RetroArch](https://user-images.githubusercontent.com/43497630/123741383-92c0a400-d86f-11eb-8339-6beecaf2d5f2.png)
+
+**SCREENSHOTS:** taken with my oneplus 7 pro,
+
+![Screenshot_20210630-141032_RetroArch](https://user-images.githubusercontent.com/43497630/124018952-0cf74280-d9ae-11eb-99c9-cf11285feb7a.png)
 
 ![Screenshot_20210629-001435_RetroArch](https://user-images.githubusercontent.com/43497630/123741388-97855800-d86f-11eb-8bac-9aab072bde92.png)
 
 **extra info you might like**
 
 the squares on the dpad are up+left and down+right and such, and there is in fact a refresh button. its just invis. next to the menu and fast foward buttons. invis because it would likely never be used, but still to have just in case.
-
-**explanation for why mappings are weird**
-
-tldr: shits fucked.
-when using an overlay controller, a remapped key does not behaved as its supposed to. basically, when you press a button, that button is pressed. On the Mario 3 map, pressing "B" on the overlay will by default open up the items menu, and "A" would open a level. You can remap the keys so that instead of B and A you can choose any other inputs. This works completely fine while using a controller. HOWEVER, using an overlay kinda doesn't do that. When using an overlay, pressing B will ALWAYS be B. This is problematic if you use a sane key configuration like using Y and B as B and A, similar to Mario World and all mario games after that.
-When pressing B after setting to A, Retroarch actually presses both B and A instead of just A. This not only messes stuff up a little bit, but makes some games not function entirely, such as Mario 3. You cannot even enter a level with this glitch going on since all attempts to press A to enter would just open up the item drawer. To compensate, the overlay uses A as A, which is usually always just "A," and Y as B, which is what non-disabled people would have it set to anyways. With all of this put together, the overlay functions as it should be, assuming you actually remap the keys like someone without a mental disorder.
