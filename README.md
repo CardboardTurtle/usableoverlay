@@ -13,7 +13,7 @@ There a small overlap between the buttons. This makes it actually possible to pr
 
 The button placement is also a large part of it. I used Super Mario Bros. 3 as the test game while designing the overlay, so i placed the buttons in a way most useful for that game. whats best for mario 3 is best for pretty much all other mario games.
 
-**SCREENSHOTS:** taken with my oneplus 7 pro,
+**SCREENSHOTS:** taken with my oneplus 7 pro
 
 ![Screenshot_20210630-142924_RetroArch](https://user-images.githubusercontent.com/43497630/124020364-d02c4b00-d9af-11eb-89bc-ba94b4ccaaad.png)
 
@@ -25,6 +25,18 @@ playing mario is actually possible now.
 **why reverse the buttons?**
 
 The buttons are reversed like this because of the mario games. pressing the rightmost button and hovering the leftmost works much better than pressing leftmost and hovering the rightmost button, mostly because of the "input lag" problems with touch overlays. Whenever using a touchscreen overlay, theres going to be more "input lag" than when using real buttons. not because of the technology behind the overlays, but because of the technology behind your thumbs. moving your thumb down and in on itself takes more time than down and flattening it out on the screen. Because of this fact, I reversed the layout.
+
+**a brief note about Super Mario Kart and other games that use the shoulder buttons**
+
+you might think that its impossible to play these games because of how far up the shoulder buttons are, but if you use this for five minutes you'll figure out that you can just hover over the L and R buttons. this is even easier if your phone has curved bezels, or a slim case on it.
+
+Alternatively, you could use external shoulder buttons. I have found three solutions and have tried none. Use at your own risk.
+
+https://www.amazon.com/Controller-Transparent-Sensitive-Survival-Joystick/dp/B07CP4BLK9 This is an attachment you buy that could work. about 7 dollars
+
+https://www.youtube.com/watch?v=y02cay9FQes This is a guide on how to make attachments with aluminum tape and masking tape, ive heard gum wrappers also work, and tinfoil or aluminum foil should be fine as well.
+
+https://www.thingiverse.com/thing:3238515 This is both. you 3D print a mechanism, then wrap the conductive material like the ones discussed above around it. you would have to edit the file to match your phone's depth, though. If you don't have a 3D printer, check your library. some libraries have 3D printers now.
 
 **why are the buttons staggered in portrait, but not in landscape?**
 
