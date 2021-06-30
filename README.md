@@ -20,7 +20,7 @@ playing mario is actually possible now.
 
 ![Screenshot_20210630-141032_RetroArch](https://user-images.githubusercontent.com/43497630/124018952-0cf74280-d9ae-11eb-99c9-cf11285feb7a.png)
 
-![Screenshot_20210629-001435_RetroArch](https://user-images.githubusercontent.com/43497630/123741388-97855800-d86f-11eb-8bac-9aab072bde92.png)
+![Screenshot_20210630-142924_RetroArch](https://user-images.githubusercontent.com/43497630/124020364-d02c4b00-d9af-11eb-89bc-ba94b4ccaaad.png)
 
 **extra info you might like**
 
