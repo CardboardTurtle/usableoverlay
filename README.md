@@ -57,3 +57,5 @@ You're not gonna care where the A and B buttons are while playing Ace Attourney,
 **extra info you might like**
 
 the squares on the dpad are up+left and down+right and such, and there is in fact a refresh button. its just invis. next to the menu and fast foward buttons. invis because it would likely never be used, but still to have just in case.
+
+Finally, if you mapped the B button to A for NES games like a normal person, you might find that the B button in this overlay not only presses the A button, but the B button as well. this is because retroarch doesn't have a good system for remapping buttons and using overlays at the same time. I don't know how to fix it, but I do know how that by just mapping X to B and A to A you can get around this. That is what I recommend doing, and designed the overlay for. If you don't do this, youre gonna have a bad time.
